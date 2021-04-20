@@ -1,0 +1,9 @@
+{
+    "lol": "APIKEY",
+    "zapi": "zenz",
+    "bot_token": "YOURBOT-TOKEN",
+    "owner": "zhwzein",
+    "ownerLink": "https://t.me/zhwzein",
+    "version": "1.1.0",
+    "prefix": "/"
+}

@@ -1,0 +1,6 @@
+exports.register = require('./register')
+exports.premium = require('./premium')
+exports.limit = require('./limit')
+exports.level = require('./level')
+exports.afk = require('./afk')
+exports.atm = require('./atm')
