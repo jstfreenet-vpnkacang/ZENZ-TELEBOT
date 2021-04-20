@@ -50,4 +50,4 @@ Get bot_token at [`@BotFather`](http://t.me/BotFather).
 
 # Thanks To
 * [`Telegraf`](https://github.com/telegraf/telegraf)
-* [`Loll-Human`](https://github.com/LoL-Human)
+* [`Lol-Human`](https://github.com/LoL-Human)
